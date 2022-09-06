@@ -1,0 +1,61 @@
+
+svin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Слой 16
+  rotate: false
+  xy: 2, 361
+  size: 818, 714
+  orig: 818, 714
+  offset: 0, 0
+  index: -1
+Слой 18
+  rotate: false
+  xy: 822, 264
+  size: 854, 811
+  orig: 854, 811
+  offset: 0, 0
+  index: -1
+Слой 20
+  rotate: false
+  xy: 505, 1077
+  size: 895, 599
+  orig: 895, 599
+  offset: 0, 0
+  index: -1
+Слой 21
+  rotate: true
+  xy: 2, 1289
+  size: 387, 501
+  orig: 387, 501
+  offset: 0, 0
+  index: -1
+
+svin2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Слой 17
+  rotate: true
+  xy: 722, 2
+  size: 901, 1033
+  orig: 901, 1033
+  offset: 0, 0
+  index: -1
+Слой 19
+  rotate: false
+  xy: 722, 905
+  size: 977, 1052
+  orig: 977, 1052
+  offset: 0, 0
+  index: -1
+Слой 22
+  rotate: false
+  xy: 2, 195
+  size: 718, 1762
+  orig: 718, 1762
+  offset: 0, 0
+  index: -1
