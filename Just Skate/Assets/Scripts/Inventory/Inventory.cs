@@ -9,16 +9,6 @@ public class Inventory
     public Inventory()
     {
         itemList = new List<Item>();
-
-        /*AddItem(new Item { itemType = Item.ItemType.Flashlight, amount = 1 });
-        AddItem(new Item { itemType = Item.ItemType.Flashlight, amount = 1 });
-        AddItem(new Item { itemType = Item.ItemType.Flashlight, amount = 1 });
-        AddItem(new Item { itemType = Item.ItemType.Flashlight, amount = 1 });
-        AddItem(new Item { itemType = Item.ItemType.Flashlight, amount = 1 });
-        AddItem(new Item { itemType = Item.ItemType.Flashlight, amount = 1 });
-        AddItem(new Item { itemType = Item.ItemType.Flashlight, amount = 1 });
-        AddItem(new Item { itemType = Item.ItemType.Flashlight, amount = 1 });
-        AddItem(new Item { itemType = Item.ItemType.Flashlight, amount = 1 });*/
     }
 
     public void AddItem(Item item)
